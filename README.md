@@ -6,9 +6,10 @@
 
 🛠️ Tech Stack
 - **Languages:** PHP, JavaScript/TypeScript, Go, Java, Python
-- **Frontend:** React, Tailwind, Blade, jQuery, Bootstrap, Sass / Scss, HTML/CSS
+- **Frontend (Web):** React, Tailwind, Blade, jQuery, Bootstrap, Sass / Scss, HTML/CSS
+- **Frontend (Mobile):** Kotlin, Jetpack Compose, MVVM Architecture
 - **Backend:** Laravel, Node.js, Express.js, Go, REST APIs, WebSocket
-- **Database:** MySQL, PostgreSQL, Redis
+- **Database:** MySQL, PostgreSQL, Redis, Firebase
 - **Tools:** Git, Linux, Postman
 
 📚 Currently Learning
