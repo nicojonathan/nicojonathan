@@ -1,12 +1,13 @@
 ## Hi, I'm Nico! 👋
 
-🧑‍🎓 A final-year [Computer Science](https://www.ithb.ac.id/) student at Harapan Bangsa Institute of Technology passionate about building full-stack web applications that are scalable, user-friendly, and well-architected<br/>
-🧑‍💻 Front-End Developer<br/>
+💼 Front-End Developer at a private bank, passionate about creating intuitive, scalable, and maintainable web applications.<br/>
+
+🌱 Beyond my day job, I enjoy building full-stack web and mobile applications for personal projects, experimenting with new technologies, and expanding my software engineering skills.<br/>
 
 🛠️ Tech Stack
-- **Languages:** PHP, Go, JavaScript/TypeScript, Java, Python
-- **Frontend:** Laravel, React, Tailwind, HTML/CSS
-- **Backend:** Laravel, Go, REST APIs, RabbitMQ
+- **Languages:** PHP, JavaScript/TypeScript, Go, Java, Python
+- **Frontend:** React, Tailwind, Blade, jQuery, Bootstrap, Sass / Scss, HTML/CSS
+- **Backend:** Laravel, Node.js, Express.js, Go, REST APIs, WebSocket
 - **Database:** MySQL, PostgreSQL, Redis
 - **Tools:** Git, Linux, Postman
 
